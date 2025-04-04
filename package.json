@@ -1,0 +1,12 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass:watch": "sass scss/main.scss dist/css/main.css --watch"
+  },
+  "keywords": [],
+  "author": "Shivdutt Karwa",
+  "license": "ISC"
+}
